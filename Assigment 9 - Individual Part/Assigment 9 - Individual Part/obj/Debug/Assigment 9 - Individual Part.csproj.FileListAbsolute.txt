@@ -1,0 +1,6 @@
+/Users/leart/Desktop/Datalogi/SU/Assigment 9 - Individual Part/Assigment 9 - Individual Part/bin/Debug/Assigment_9___Individual_Part.exe
+/Users/leart/Desktop/Datalogi/SU/Assigment 9 - Individual Part/Assigment 9 - Individual Part/bin/Debug/Assigment_9___Individual_Part.pdb
+/Users/leart/Desktop/Datalogi/SU/Assigment 9 - Individual Part/Assigment 9 - Individual Part/obj/Debug/Assigment 9 - Individual Part.csprojAssemblyReference.cache
+/Users/leart/Desktop/Datalogi/SU/Assigment 9 - Individual Part/Assigment 9 - Individual Part/obj/Debug/Assigment 9 - Individual Part.csproj.CoreCompileInputs.cache
+/Users/leart/Desktop/Datalogi/SU/Assigment 9 - Individual Part/Assigment 9 - Individual Part/obj/Debug/Assigment_9___Individual_Part.exe
+/Users/leart/Desktop/Datalogi/SU/Assigment 9 - Individual Part/Assigment 9 - Individual Part/obj/Debug/Assigment_9___Individual_Part.pdb
