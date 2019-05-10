@@ -1,11 +1,10 @@
 namespace Assigment_9___Individual_Part
 {
-    public abstract class Decorator : IDraw
+    public class Abstract : IDraw
     {
-
         private readonly IDraw _draw;
 
-        protected Decorator(IDraw drawing)
+        protected Abstract(IDraw drawing)
         {
 
             _draw = drawing;

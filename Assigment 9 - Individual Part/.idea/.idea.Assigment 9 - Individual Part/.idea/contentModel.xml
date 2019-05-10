@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$PROJECT_DIR$" t="IncludeFlat">
+    <e p="C:\Users\Manden\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Manden\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Assigment 9 - Individual Part.283995898.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Manden\Desktop\Opgaver\Opgaver\Assigment 9 - Individual Part" t="IncludeFlat">
       <e p="Assigment 9 - Individual Part" t="IncludeRecursive">
+        <e p="Abstract.cs" t="Include" />
+        <e p="abstractBase.cs" t="Include" />
+        <e p="abstractFlower.cs" t="Include" />
+        <e p="abstractStar.cs" t="Include" />
+        <e p="abstractTall.cs" t="Include" />
         <e p="Assigment 9 - Individual Part.csproj" t="IncludeRecursive" />
-        <e p="baseplayer.cs" t="Include" />
+        <e p="Base.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Decorator.cs" t="Include" />
-        <e p="description.cs" t="Include" />
-        <e p="Draw.cs" t="Include" />
+        <e p="Flower.cs" t="Include" />
+        <e p="IDraw.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
-        <e p="Player.cs" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
+        <e p="Star.cs" t="Include" />
         <e p="tall.cs" t="Include" />
       </e>
       <e p="Assigment 9 - Individual Part.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
     </e>
-    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_Assigment 9 - Individual Part.-1107789942.00" t="ExcludeRecursive" />
   </component>
 </project>

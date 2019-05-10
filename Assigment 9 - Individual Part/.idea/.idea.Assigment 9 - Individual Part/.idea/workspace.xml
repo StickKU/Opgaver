@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="713efc5c-3bfe-4da8-a3bf-fe392c15534c" name="Default Changelist" comment="" />
+    <list default="true" id="713efc5c-3bfe-4da8-a3bf-fe392c15534c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assigment 9 - Individual Part/Base.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assigment 9 - Individual Part/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assigment 9 - Individual Part/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assigment 9 - Individual Part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assigment 9 - Individual Part/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment 9 - Individual Part/Assigment 9 - Individual Part.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assigment 9 - Individual Part/Assigment 9 - Individual Part.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment 9 - Individual Part/Decorator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assigment 9 - Individual Part/Decorator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment 9 - Individual Part/Draw.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment 9 - Individual Part/Player.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment 9 - Individual Part/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assigment 9 - Individual Part/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment 9 - Individual Part/baseplayer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment 9 - Individual Part/bin/Debug/Assigment_9___Individual_Part.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Assigment 9 - Individual Part/bin/Debug/Assigment_9___Individual_Part.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment 9 - Individual Part/bin/Debug/Assigment_9___Individual_Part.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assigment 9 - Individual Part/bin/Debug/Assigment_9___Individual_Part.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment 9 - Individual Part/description.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment 9 - Individual Part/obj/Debug/Assigment 9 - Individual Part.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Assigment 9 - Individual Part/obj/Debug/Assigment 9 - Individual Part.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment 9 - Individual Part/obj/Debug/Assigment 9 - Individual Part.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assigment 9 - Individual Part/obj/Debug/Assigment 9 - Individual Part.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment 9 - Individual Part/obj/Debug/Assigment 9 - Individual Part.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Assigment 9 - Individual Part/obj/Debug/Assigment 9 - Individual Part.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment 9 - Individual Part/obj/Debug/Assigment_9___Individual_Part.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Assigment 9 - Individual Part/obj/Debug/Assigment_9___Individual_Part.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment 9 - Individual Part/obj/Debug/Assigment_9___Individual_Part.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assigment 9 - Individual Part/obj/Debug/Assigment_9___Individual_Part.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment 9 - Individual Part/tall.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assigment 9 - Individual Part/tall.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,59 +28,47 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Program.cs">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Abstract.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
+            <state relative-caret-position="102">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
               <folding>
-                <marker date="1557241378320" expanded="true" signature="40:457" ph="{...}" />
-                <marker date="1557241378320" expanded="true" signature="69:455" ph="{...}" />
-                <marker date="1557241378320" expanded="true" signature="118:449" ph="{...}" />
+                <marker date="1557450857225" expanded="true" signature="39:312" ph="{...}" />
+                <marker date="1557450857225" expanded="true" signature="75:310" ph="{...}" />
+                <marker date="1557450857225" expanded="true" signature="162:213" ph="{...}" />
+                <marker date="1557450857225" expanded="true" signature="251:304" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/baseplayer.cs">
+        <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/abstractBase.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="187">
+              <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
               <folding>
-                <marker date="1557236785292" expanded="true" signature="40:137" ph="{...}" />
-                <marker date="1557236785292" expanded="true" signature="79:135" ph="{...}" />
+                <marker date="1557451444117" expanded="true" signature="39:314" ph="{...}" />
+                <marker date="1557451444117" expanded="true" signature="82:312" ph="{...}" />
+                <marker date="1557451444117" expanded="true" signature="143:195" ph="{...}" />
+                <marker date="1557451444117" expanded="true" signature="234:306" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/description.cs">
+        <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/abstractFlower.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            <state relative-caret-position="187">
+              <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
               <folding>
-                <marker date="1557239343809" expanded="true" signature="55:755" ph="{...}" />
-                <marker date="1557239343809" expanded="true" signature="99:753" ph="{...}" />
-                <marker date="1557239343809" expanded="true" signature="327:466" ph="{...}" />
-                <marker date="1557239343809" expanded="true" signature="525:747" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Player.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-              <folding>
-                <marker date="1557239351207" expanded="true" signature="55:398" ph="{...}" />
-                <marker date="1557239351207" expanded="true" signature="91:392" ph="{...}" />
-                <marker date="1557239351207" expanded="true" signature="179:236" ph="{...}" />
-                <marker date="1557239351207" expanded="true" signature="292:382" ph="{...}" />
+                <marker date="1557451444169" expanded="true" signature="39:332" ph="{...}" />
+                <marker date="1557451444169" expanded="true" signature="83:330" ph="{...}" />
+                <marker date="1557451444169" expanded="true" signature="146:201" ph="{...}" />
+                <marker date="1557451444169" expanded="true" signature="240:324" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -70,41 +77,100 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/tall.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            <state relative-caret-position="51">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
               <folding>
-                <marker date="1557240944931" expanded="true" signature="55:324" ph="{...}" />
-                <marker date="1557240944931" expanded="true" signature="91:322" ph="{...}" />
-                <marker date="1557240944931" expanded="true" signature="157:194" ph="{...}" />
-                <marker date="1557240944931" expanded="true" signature="246:316" ph="{...}" />
+                <marker date="1557451444100" expanded="false" signature="6:42" ph="..." />
+                <marker date="1557451444100" expanded="true" signature="84:206" ph="{...}" />
+                <marker date="1557451444100" expanded="true" signature="115:204" ph="{...}" />
+                <marker date="1557451444100" expanded="true" signature="145:197" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/abstractStar.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+              <folding>
+                <marker date="1557451444134" expanded="true" signature="39:322" ph="{...}" />
+                <marker date="1557451444134" expanded="true" signature="81:320" ph="{...}" />
+                <marker date="1557451444134" expanded="true" signature="142:197" ph="{...}" />
+                <marker date="1557451444134" expanded="true" signature="236:314" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/abstractTall.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+              <folding>
+                <marker date="1557451444160" expanded="true" signature="39:312" ph="{...}" />
+                <marker date="1557451444160" expanded="true" signature="82:310" ph="{...}" />
+                <marker date="1557451444160" expanded="true" signature="143:198" ph="{...}" />
+                <marker date="1557451444160" expanded="true" signature="237:304" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Flower.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+              <folding>
+                <marker date="1557451444108" expanded="true" signature="40:178" ph="{...}" />
+                <marker date="1557451444108" expanded="true" signature="74:176" ph="{...}" />
+                <marker date="1557451444108" expanded="true" signature="110:170" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Star.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <marker date="1557451444152" expanded="true" signature="40:183" ph="{...}" />
+                <marker date="1557451444152" expanded="true" signature="72:181" ph="{...}" />
+                <marker date="1557451444152" expanded="true" signature="111:174" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Base.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+              <folding>
+                <marker date="1557450362077" expanded="true" signature="39:172" ph="{...}" />
+                <marker date="1557450362077" expanded="true" signature="71:170" ph="{...}" />
+                <marker date="1557450362077" expanded="true" signature="106:164" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Decorator.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <marker date="1557240944922" expanded="true" signature="40:509" ph="{...}" />
-                <marker date="1557240944922" expanded="true" signature="82:507" ph="{...}" />
-                <marker date="1557240944922" expanded="true" signature="340:405" ph="{...}" />
-                <marker date="1557240944922" expanded="true" signature="454:501" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Draw.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-              <folding>
-                <marker date="1557240944926" expanded="true" signature="40:213" ph="{...}" />
-                <marker date="1557240944926" expanded="true" signature="76:211" ph="{...}" />
+                <marker date="1557450744619" expanded="true" signature="39:324" ph="{...}" />
+                <marker date="1557450744619" expanded="true" signature="85:322" ph="{...}" />
+                <marker date="1557450744619" expanded="true" signature="174:225" ph="{...}" />
+                <marker date="1557450744619" expanded="true" signature="263:316" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -112,14 +178,22 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Draw.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/tall.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/baseplayer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/description.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Decorator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/abstractTall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/abstractStar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/abstractFlower.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/abstractBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Abstract.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/IDraw.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Base.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Star.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Flower.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -128,23 +202,36 @@
         <option value="$PROJECT_DIR$/Assigment 9 - Individual Part/baseplayer.cs" />
         <option value="$PROJECT_DIR$/Assigment 9 - Individual Part/description.cs" />
         <option value="$PROJECT_DIR$/Assigment 9 - Individual Part/Player.cs" />
-        <option value="$PROJECT_DIR$/Assigment 9 - Individual Part/tall.cs" />
         <option value="$PROJECT_DIR$/Assigment 9 - Individual Part/Draw.cs" />
+        <option value="$PROJECT_DIR$/Assigment 9 - Individual Part/draw.cs" />
+        <option value="$PROJECT_DIR$/Assigment 9 - Individual Part/Base.cs" />
         <option value="$PROJECT_DIR$/Assigment 9 - Individual Part/Decorator.cs" />
+        <option value="$PROJECT_DIR$/Assigment 9 - Individual Part/Abstract.cs" />
         <option value="$PROJECT_DIR$/Assigment 9 - Individual Part/Program.cs" />
+        <option value="$PROJECT_DIR$/Assigment 9 - Individual Part/tall.cs" />
+        <option value="$PROJECT_DIR$/Assigment 9 - Individual Part/abstractStar.cs" />
+        <option value="$PROJECT_DIR$/Assigment 9 - Individual Part/abstractTall.cs" />
+        <option value="$PROJECT_DIR$/Assigment 9 - Individual Part/Flower.cs" />
+        <option value="$PROJECT_DIR$/Assigment 9 - Individual Part/Star.cs" />
+        <option value="$PROJECT_DIR$/Assigment 9 - Individual Part/abstractBase.cs" />
+        <option value="$PROJECT_DIR$/Assigment 9 - Individual Part/abstractFlower.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -162,13 +249,13 @@
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Assigment 6/su19-SteLeoKri/SU19-Exercises" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -215,11 +302,13 @@
       <option name="presentableId" value="Default" />
       <updated>1557236283724</updated>
       <workItem from="1557236285107" duration="4628000" />
+      <workItem from="1557334379327" duration="1953000" />
+      <workItem from="1557449437617" duration="2097000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4628000" />
+    <option name="totallyTimeSpent" value="8678000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -231,41 +320,73 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25426438" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32891566" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Build" weight="0.32891566" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3281412" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.3281412" />
+      <window_info anchor="bottom" id="Performance Profiler" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25479743" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" order="14" visible="true" weight="0.3281412" />
+      <window_info anchor="bottom" id="Performance Profiler" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -278,95 +399,173 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/base.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/description.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
+        <state relative-caret-position="340">
           <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-          <folding>
-            <marker date="1557239343809" expanded="true" signature="55:755" ph="{...}" />
-            <marker date="1557239343809" expanded="true" signature="99:753" ph="{...}" />
-            <marker date="1557239343809" expanded="true" signature="327:466" ph="{...}" />
-            <marker date="1557239343809" expanded="true" signature="525:747" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/baseplayer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <marker date="1557236785292" expanded="true" signature="40:137" ph="{...}" />
-            <marker date="1557236785292" expanded="true" signature="79:135" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Player.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-          <folding>
-            <marker date="1557239351207" expanded="true" signature="55:398" ph="{...}" />
-            <marker date="1557239351207" expanded="true" signature="91:392" ph="{...}" />
-            <marker date="1557239351207" expanded="true" signature="179:236" ph="{...}" />
-            <marker date="1557239351207" expanded="true" signature="292:382" ph="{...}" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Decorator.cs">
+    <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/baseplayer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-          <folding>
-            <marker date="1557240944922" expanded="true" signature="40:509" ph="{...}" />
-            <marker date="1557240944922" expanded="true" signature="82:507" ph="{...}" />
-            <marker date="1557240944922" expanded="true" signature="340:405" ph="{...}" />
-            <marker date="1557240944922" expanded="true" signature="454:501" ph="{...}" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Draw.cs">
+    <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/IDraw.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        <state relative-caret-position="68">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
           <folding>
-            <marker date="1557240944926" expanded="true" signature="40:213" ph="{...}" />
-            <marker date="1557240944926" expanded="true" signature="76:211" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/tall.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding>
-            <marker date="1557240944931" expanded="true" signature="55:324" ph="{...}" />
-            <marker date="1557240944931" expanded="true" signature="91:322" ph="{...}" />
-            <marker date="1557240944931" expanded="true" signature="157:194" ph="{...}" />
-            <marker date="1557240944931" expanded="true" signature="246:316" ph="{...}" />
+            <marker date="1557450362057" expanded="true" signature="39:105" ph="{...}" />
+            <marker date="1557450362057" expanded="true" signature="68:103" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
+        <state relative-caret-position="170">
+          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
           <folding>
-            <marker date="1557241378320" expanded="true" signature="40:457" ph="{...}" />
-            <marker date="1557241378320" expanded="true" signature="69:455" ph="{...}" />
-            <marker date="1557241378320" expanded="true" signature="118:449" ph="{...}" />
+            <marker date="1557451314508" expanded="true" signature="55:394" ph="{...}" />
+            <marker date="1557451314508" expanded="true" signature="84:392" ph="{...}" />
+            <marker date="1557451314508" expanded="true" signature="133:386" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Abstract.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <marker date="1557450857225" expanded="true" signature="39:312" ph="{...}" />
+            <marker date="1557450857225" expanded="true" signature="75:310" ph="{...}" />
+            <marker date="1557450857225" expanded="true" signature="162:213" ph="{...}" />
+            <marker date="1557450857225" expanded="true" signature="251:304" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/abstractBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <folding>
+            <marker date="1557451444117" expanded="true" signature="39:314" ph="{...}" />
+            <marker date="1557451444117" expanded="true" signature="82:312" ph="{...}" />
+            <marker date="1557451444117" expanded="true" signature="143:195" ph="{...}" />
+            <marker date="1557451444117" expanded="true" signature="234:306" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/abstractFlower.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+          <folding>
+            <marker date="1557451444169" expanded="true" signature="39:332" ph="{...}" />
+            <marker date="1557451444169" expanded="true" signature="83:330" ph="{...}" />
+            <marker date="1557451444169" expanded="true" signature="146:201" ph="{...}" />
+            <marker date="1557451444169" expanded="true" signature="240:324" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/tall.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding>
+            <marker date="1557451444100" expanded="false" signature="6:42" ph="..." />
+            <marker date="1557451444100" expanded="true" signature="84:206" ph="{...}" />
+            <marker date="1557451444100" expanded="true" signature="115:204" ph="{...}" />
+            <marker date="1557451444100" expanded="true" signature="145:197" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/abstractStar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+          <folding>
+            <marker date="1557451444134" expanded="true" signature="39:322" ph="{...}" />
+            <marker date="1557451444134" expanded="true" signature="81:320" ph="{...}" />
+            <marker date="1557451444134" expanded="true" signature="142:197" ph="{...}" />
+            <marker date="1557451444134" expanded="true" signature="236:314" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/abstractTall.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <marker date="1557451444160" expanded="true" signature="39:312" ph="{...}" />
+            <marker date="1557451444160" expanded="true" signature="82:310" ph="{...}" />
+            <marker date="1557451444160" expanded="true" signature="143:198" ph="{...}" />
+            <marker date="1557451444160" expanded="true" signature="237:304" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Flower.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+          <folding>
+            <marker date="1557451444108" expanded="true" signature="40:178" ph="{...}" />
+            <marker date="1557451444108" expanded="true" signature="74:176" ph="{...}" />
+            <marker date="1557451444108" expanded="true" signature="110:170" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Star.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1557451444152" expanded="true" signature="40:183" ph="{...}" />
+            <marker date="1557451444152" expanded="true" signature="72:181" ph="{...}" />
+            <marker date="1557451444152" expanded="true" signature="111:174" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Base.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding>
+            <marker date="1557450362077" expanded="true" signature="39:172" ph="{...}" />
+            <marker date="1557450362077" expanded="true" signature="71:170" ph="{...}" />
+            <marker date="1557450362077" expanded="true" signature="106:164" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assigment 9 - Individual Part/Decorator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1557450744619" expanded="true" signature="39:324" ph="{...}" />
+            <marker date="1557450744619" expanded="true" signature="85:322" ph="{...}" />
+            <marker date="1557450744619" expanded="true" signature="174:225" ph="{...}" />
+            <marker date="1557450744619" expanded="true" signature="263:316" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -1,16 +1,12 @@
 using System;
+using System.ComponentModel;
 
 namespace Assigment_9___Individual_Part {
-    public class tall : baseplayer{
-        private string _tall;
-
-        public tall(string tall) {
-            _tall = tall;
-        }
-            
-        public override void Display()
+    public class Tall : IDraw{
+        public string Draw()
         {
-            Console.WriteLine("Tall: {0}",_tall);
+            return "I'm tall!";
         }
+
     }
 }

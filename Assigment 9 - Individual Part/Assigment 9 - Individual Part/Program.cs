@@ -1,15 +1,15 @@
-﻿namespace Assigment_9___Individual_Part {
+﻿using System;
+
+namespace Assigment_9___Individual_Part {
     internal class Program {
         public static void Main(string[] args) {
-            Player player = new Player("It’s me, SUrio!");
-            tall tall = new tall("I’m tall!");
+            IDraw idecorator = new Base();
             
-            Draw draw = new Draw(player,tall,);
+            idecorator = new abstractStar(idecorator);
+            idecorator = new abstractTall(idecorator);
             
-            ICustome Tall = new tall(new tall(new flower( new player())));
-            Tall.Draw()
+            Console.WriteLine(idecorator.Draw());
             
-            draw.Display();
         }
     }
 }
